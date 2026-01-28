@@ -1,0 +1,6 @@
+*pycache*
+*.sqlite3
+*.log
+staticfiles/
+.env
+venv/
